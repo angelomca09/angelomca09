@@ -13,7 +13,7 @@ Trabalho com Desenvolvimemto Web desde 2019, sempre aprendendo e utilizando cada
 <img height="200" width="400" alt="GIF" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomca09&layout=compact&langs_count=7&theme=dark">
 
 ### - Sobre mim :
-- ✍️ Estudando React.js na [Rocketseat](https://app.rocketseat.com.br/me/angelo-munhoz-08991)
+- ✍️ Estudando React.js desde 2019
 - 🍁 Apaixonado pelo Canadá
 - 🎮 Intusiasta dos Videogames
 - ⛩️ Querendo estudar mais Japonês
