@@ -10,7 +10,7 @@ Trabalho com Desenvolvimemto Web desde 2019, sempre aprendendo e utilizando cada
 
 <br/>
 
-<img height="200" width="400" alt="GIF" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomca09&layout=compact&langs_count=7&theme=dark&count_private=true">
+<img height="200" width="400" alt="GIF" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomca09&count_private=true&layout=compact&langs_count=7&theme=dark">
 
 ### - Sobre mim :
 - ✍️ Estudando React.js desde 2019
