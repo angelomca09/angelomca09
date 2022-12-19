@@ -38,6 +38,6 @@ Trabalho com Desenvolvimemto Web desde 2019, sempre aprendendo e utilizando cada
   <a href="https://www.linkedin.com/in/angelo-munhoz-7b7402194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/22t6ug43avwy6jiniupz3nwia" target="_blank"><img src="https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16" target="_blank"></a>
   <a href="mailto:angelomca09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>  
-  <a href="https://steamcommunity.com/id/angelomca09/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>  
+  <!--<a href="https://steamcommunity.com/id/angelomca09/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>-->
 	
 </div>
