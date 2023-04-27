@@ -1,18 +1,18 @@
 <div align="center">
   <h3>🔷 Olá! Eu sou o Angelo 🔷</h3>
-  <h5>[ Enenharia de Computação - FACENS, 2021 ]</h5>
 </div>
 
-```
+<br/>
+
 Apaixonado por tecnologia, sempre gostei muito de área da Computação, na qual me formei em 2021.
-Trabalho com Desenvolvimemto Web desde 2019, sempre aprendendo e utilizando cada vez mais React.js .
-```
+
+Trabalho com Desenvolvimemto Web desde 2019, sempre utilizando a JavaScript Stack.
 
 <br/>
 
 <img height="200" width="400" alt="GIF" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomca09&count_private=true&layout=compact&langs_count=7&theme=dark">
 
-### - Sobre mim :
+### Sobre mim :
 - ✍️ Estudando React.js desde 2019
 - 🍁 Apaixonado pelo Canadá
 - 🎮 Intusiasta dos Videogames
