@@ -4,7 +4,7 @@
 
 <br/>
 
-Apaixonado por tecnologia, sempre gostei muito de área da Computação, na qual me formei em 2021.
+Apaixonado por tecnologia, sempre gostei muito de área da Computação, na qual tenho a graduação de Engenharia desde 2019.
 
 Trabalho com Desenvolvimemto Web desde 2019, sempre utilizando a JavaScript Stack.
 
@@ -16,7 +16,7 @@ Trabalho com Desenvolvimemto Web desde 2019, sempre utilizando a JavaScript Stac
 - ✍️ Estudando React.js desde 2019
 - 🍁 Apaixonado pelo Canadá
 - 🎮 Intusiasta dos Videogames
-- ⛩️ Querendo estudar mais Japonês
+- ⛩️ Querendo aprender mais Japonês
 
 <br/>
 
