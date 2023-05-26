@@ -4,9 +4,9 @@
 
 <br/>
 
-Apaixonado por tecnologia, sempre gostei muito de área da Computação, na qual tenho a graduação de Engenharia desde 2019.
+Apaixonado por tecnologia, sempre gostei muito de área da Computação, na qual sou graduado em Engenharia desde 2021.
 
-Trabalho com Desenvolvimemto Web desde 2019, sempre utilizando a JavaScript Stack.
+Trabalho com Desenvolvimemto Web desde 2019, sempre utilizando o ecossistema do JavaScript.
 
 <br/>
 
