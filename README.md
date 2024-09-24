@@ -6,8 +6,8 @@
 
 Apaixonado por tecnologia, sempre gostei muito de área da Computação, na qual sou graduado em Engenharia desde 2021.
 
-Trabalhei com Desenvolvimemto Web desde 2019, sempre utilizando o ecossistema do JavaScript (muito React).
-Hoje atuo na área de Embarcados, desenvolvendo UI com QML/Qt.
+Trabalhei com Desenvolvimemto Web desde 2019, sempre utilizando o ecossistema do JavaScript (e muito React).
+Hoje atuo na área de Embarcados, desenvolvendo UI com Java e Android.
 Atualmente estudando sobre desenvolvimento de jogos em Godot.
 
 <br/>
@@ -15,7 +15,7 @@ Atualmente estudando sobre desenvolvimento de jogos em Godot.
 <img height="200" width="400" alt="GIF" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomca09&count_private=true&layout=compact&langs_count=7&theme=dark">
 
 ### Sobre mim :
-- ✍️ Estudando React.js desde 2019
+- ✍️ Estudando programação desde 2019
 - 🍁 Apaixonado pelo Canadá
 - 🎮 Intusiasta dos Videogames
 - ⛩️ Querendo aprender mais Japonês
