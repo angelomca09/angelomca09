@@ -6,9 +6,7 @@
 
 Apaixonado por tecnologia, sempre gostei muito de área da Computação, na qual sou graduado em Engenharia desde 2021.
 
-Trabalhei com Desenvolvimemto Web desde 2019, sempre utilizando o ecossistema do JavaScript (e muito React).
-Hoje atuo na área de Embarcados, desenvolvendo UI com Java e Android.
-Atualmente estudando sobre desenvolvimento de jogos em Godot.
+Trabalhei com Desenvolvimemto de Software desde 2019. Atualmente estudando sobre desenvolvimento de jogos em Godot.
 
 <br/>
 
