@@ -23,11 +23,7 @@ Trabalho com Desenvolvimemto de Software desde 2019.
 		<img align="center" alt="Git" title="Git"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br/>
 <div align="center">
-  <a href="https://www.facebook.com/angelo.munhoz.09/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/angelo.munhoz/" target="_blank"><img src="https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/angelo-munhoz-7b7402194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/22t6ug43avwy6jiniupz3nwia" target="_blank"><img src="https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16" target="_blank"></a>
   <a href="mailto:angelomca09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>  
-  <!--<a href="https://steamcommunity.com/id/angelomca09/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>-->
 	
 </div>
