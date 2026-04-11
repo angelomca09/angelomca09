@@ -6,17 +6,7 @@
 
 Apaixonado por tecnologia, sempre gostei muito de área da Computação, na qual sou graduado em Engenharia desde 2021.
 
-Trabalhei com Desenvolvimemto de Software desde 2019. Atualmente estudando sobre desenvolvimento de jogos em Godot.
-
-<br/>
-
-<img height="200" width="400" alt="GIF" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomca09&count_private=true&layout=compact&langs_count=7&theme=dark">
-
-### Sobre mim :
-- ✍️ Estudando programação desde 2019
-- 🍁 Apaixonado pelo Canadá
-- 🎮 Intusiasta dos Videogames
-- ⛩️ Querendo aprender mais Japonês
+Trabalho com Desenvolvimemto de Software desde 2019.
 
 <br/>
 
